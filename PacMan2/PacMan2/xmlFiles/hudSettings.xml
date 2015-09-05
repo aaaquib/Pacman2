@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<HUDSettings>
+    <!--<Asset Type="HUD.ShowImage[]">--> 
+    <!-- TODO: replace this Asset with your own XML asset data. -->
+      <Item nameID="InvPoint" texturePath="point" posX="470" posY="310" width="20" height="20" />
+      <Item nameID="SlowPill" texturePath="point" posX="365" posY="565" width="15" height="15" />
+      <Item nameID="SlowPill" texturePath="point" posX="580" posY="185" width="15" height="15" />
+      <Item nameID="wall" texturePath="rect" posX="0" posY="0" width="0" height="0" />
+      <Item nameID="points" texturePath="point" posX="0" posY="0" width="0" height="0" />
+      <Item nameID="gamOver1" texturePath="GameOver1" posX="294" posY="225" width="0" height="0" />
+      <Item nameID="gamOver2" texturePath="GameOver2" posX="294" posY="225" width="0" height="0" />
+      <Item nameID="gamOver3" texturePath="GameOver3" posX="294" posY="225" width="0" height="0" />
+      
+      <!--<Item>
+        <name>SlowPill</name>
+        <position>365 565</position>
+        <texturePath>point</texturePath>
+        
+      </Item>
+      <Item>
+        <name>SlowPill</name>
+        <position >580 185</position>
+        <texturePath>point</texturePath>
+        
+      </Item>
+      <Item>
+        <name>wall</name>
+        <position>0 0</position>
+        <texturePath>rect</texturePath>
+       
+      </Item>
+      <Item>
+        <name>points</name>
+        <position>0 0</position>
+        <texturePath>point</texturePath>
+      </Item>
+      <Item>
+        <name>gameOver1</name>
+        <position >294 225</position>
+        <texturePath>GameOver1</texturePath>
+        
+      </Item>
+      <Item>
+        <name>gameOver2</name>
+        <position >294 225</position>
+        <texturePath>GameOver2</texturePath>
+      </Item>
+      <Item>
+        <name>gameOver3</name>
+        <position >294 225</position>
+        <texturePath>GameOver3</texturePath>
+
+      </Item>-->
+    
+ <!--</Asset>-->
+</HUDSettings>
